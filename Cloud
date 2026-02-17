@@ -1,0 +1,13 @@
+# Prowler
+
+## Description
+Prowler is a cloud security assessment tool for AWS, Azure, and GCP.
+
+## Features
+- CIS Benchmark checks
+- GDPR compliance
+- Multi-cloud support
+
+## Usage
+```bash
+prowler aws

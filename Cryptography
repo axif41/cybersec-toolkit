@@ -1,0 +1,12 @@
+# GoKey
+
+A lightweight Go-based key generation and cryptographic utility tool.
+
+## Features
+- RSA Key generation
+- AES encryption
+- Secure hashing
+
+## Example
+```bash
+gokey generate --rsa 2048

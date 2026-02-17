@@ -1,0 +1,8 @@
+# Exegol
+
+Docker-based penetration testing environment.
+
+## Features
+- Pre-installed pentest tools
+- Custom containers
+- Offensive security toolkit

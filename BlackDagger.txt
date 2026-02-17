@@ -1,0 +1,8 @@
+# BlackDagger
+
+Custom vulnerability assessment scanner.
+
+## Features
+- Port scanning
+- CVE detection
+- Automated reporting

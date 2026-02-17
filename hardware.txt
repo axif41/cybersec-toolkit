@@ -1,0 +1,8 @@
+# EMBA - BHEU22 Update
+
+Embedded Linux firmware security analysis framework.
+
+## Features
+- Firmware extraction
+- Vulnerability detection
+- Automated reporting

@@ -1,0 +1,7 @@
+# Dorkify
+
+Google dork automation tool for OSINT investigations.
+
+## Example
+```bash
+dorkify --target example.com

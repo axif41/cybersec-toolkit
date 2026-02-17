@@ -1,0 +1,7 @@
+# Mimicry
+
+Advanced network defense and deception system.
+
+## Features
+- Traffic simulation
+- Attack pattern detection

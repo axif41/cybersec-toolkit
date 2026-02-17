@@ -1,0 +1,61 @@
+CyberSec-Toolkit/
+│
+├── cloud/
+│   └── prowler.md
+│
+├── code_assessment/
+│   └── categories.md
+│
+├── cryptography/
+│   └── gokey.md
+│
+├── exploitation/
+│   └── lazyrecon_v2.md
+│
+├── forensics/
+│   └── siembol.md
+│
+├── frameworks/
+│   └── exegol.md
+│
+├── hardening/
+│   └── sandbox.md
+│
+├── hardware_iot/
+│   └── emba.md
+│
+├── ics_scada/
+│
+├── malware_research/
+│   └── libra_binary_analysis_course.md
+│
+├── mobile_hacking/
+│   └── badges.md
+│
+├── network_attacks/
+│   └── badges.md
+│
+├── network_defense/
+│   └── mimicry.md
+│
+├── osint/
+│   └── dorkify.md
+│
+├── phishing/
+│   └── squarephish.md
+│
+├── red_team/
+│   └── adokit.md
+│
+├── reverse_engineering/
+│   └── ox4shell.md
+│
+├── vulnerability_assessment/
+│   └── blackdagger.md
+│
+├── webapp_security/
+│   └── threatplaybook.md
+│
+├── tool_name.md
+├── LICENSE
+└── README.md
